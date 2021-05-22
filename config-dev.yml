@@ -1,4 +1,4 @@
 #这是调试环境
 
 config: 
-  info: "It's config-dev. version=2"
+  info: "It's config-dev. version=3"
